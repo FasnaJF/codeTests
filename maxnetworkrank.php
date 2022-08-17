@@ -18,7 +18,6 @@ Output: 4
 */
 
 function solution($A, $B, $N) {
-    // write your code in PHP7.0
 
     $M = count($A);
     $maximalNetworkRank = 0;
