@@ -1,3 +1,4 @@
+<?php
 /*
 Given a string S of length N consisting of "?" and lowercase letters, the task is to replace "?" with lowercase letters such that no adjacent characters are the same. If more than one possible combination exists, print any one of them.*/
 
@@ -41,3 +42,5 @@ function solution($riddle) {
     
     return join("",$strArray);
 }
+
+?>
